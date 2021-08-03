@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Seyed on 8/3/21, 2:05 PM
+  ~ Copyright (c) 2021 . All rights reserved.
+  ~ Last modified 8/3/21, 1:55 PM
+  -->
+
+<resources>
+    <color name="colorPrimary">#9C27B0</color>
+    <color name="colorPrimaryPurple">#673AB7</color>
+    <color name="colorAccent">#673AB7</color>
+</resources>
